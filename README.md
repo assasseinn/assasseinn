@@ -48,7 +48,7 @@ A few problem spaces and products I've been building:
 
 ### Outside of building
 
-Storytelling, visual design, music production, basketball, and exploring new places.
+Storytelling, visual design, music production, basketball, and exploring new places. Always learning, experimenting, and building.
 
 ---
 
