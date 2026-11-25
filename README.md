@@ -23,6 +23,10 @@
 - **Product engineering** — Building SaaS platforms, internal tools, and useful web applications.
 - **Web & platform development** — Full-stack applications, performance, and SEO-aware architecture.
 
+### How I approach engineering
+
+I like starting with the real problem, keeping systems understandable, and shipping in small, testable steps. I value useful outcomes, clear interfaces, and dependable software over complexity for its own sake.
+
 ### Selected work
 
 A few problem spaces and products I've been building:
