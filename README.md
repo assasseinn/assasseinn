@@ -50,6 +50,12 @@ A few problem spaces and products I've been building:
 **AI & integrations:** OpenAI APIs, Whisper, ElevenLabs, Microsoft Graph  
 **Infrastructure:** Docker, GitHub, Vercel, Linux
 
+### Current interests
+
+- Building reliable AI-assisted workflows that keep people in control.
+- Exploring practical applications of language models and speech interfaces.
+- Improving developer experience, system observability, and maintainable architecture.
+
 ### Outside of building
 
 Storytelling, visual design, music production, basketball, and exploring new places. Always learning, experimenting, and building.
