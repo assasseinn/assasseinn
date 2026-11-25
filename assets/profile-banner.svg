@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Singh — AI Engineer and Automation Developer</title>
+  <desc id="desc">A warm editorial banner with a typographic identity and abstract geometric lines.</desc>
+  <rect width="1200" height="320" fill="#F3F0E9"/>
+  <path d="M0 258H1200" stroke="#D8D1C5" stroke-width="1"/>
+  <path d="M820 0L1200 320M930 0L1200 228M1040 0L1200 160" stroke="#DED7CB" stroke-width="1" fill="none"/>
+  <circle cx="1015" cy="154" r="102" fill="none" stroke="#B65E46" stroke-width="1.5"/>
+  <circle cx="1015" cy="154" r="72" fill="none" stroke="#B65E46" stroke-opacity=".45" stroke-width="1"/>
+  <path d="M1015 40V268M901 154H1129" stroke="#B65E46" stroke-opacity=".45" stroke-width="1"/>
+  <circle cx="1015" cy="154" r="5" fill="#B65E46"/>
+  <text x="72" y="76" fill="#8A8175" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">INDEPENDENT BUILDER · INDIA</text>
+  <text x="68" y="158" fill="#24231F" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.5">AI, made useful.</text>
+  <text x="72" y="202" fill="#514C44" font-family="Arial, Helvetica, sans-serif" font-size="19">Engineering intelligent products &amp; thoughtful automation.</text>
+  <text x="72" y="278" fill="#8A8175" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">RAHUL SINGH</text>
+  <text x="1128" y="278" text-anchor="end" fill="#8A8175" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">BUILD · AUTOMATE · LEARN</text>
+</svg>
